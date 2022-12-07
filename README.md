@@ -5,7 +5,7 @@
 
 ⌨️ I'm an advanced user of R. I am proficient in Alteryx and Tableau and have basic fluency in Python and SQL.
 
-🗃 This is a collection of all the projects I've worked on. Some are from university courseworks but most are passion projects. 
+🗃 Most projects on here are passion projects, but a selection are from my university courseworks. 
 
 📫 You can reach me at matthewgarethlam@outlook.com 
 
