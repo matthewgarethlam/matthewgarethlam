@@ -3,7 +3,7 @@
 
 🗺 I specialise in geospatial data science. I love making maps and communicating with data.
 
-⌨️ I'm an advanced user of R. I am proficient in Alteryx and Tableau and have basic fluency in Python and SQL.
+⌨️ I'm an advanced user of R, I am proficient in Alteryx and Tableau and have basic fluency in Python and SQL.
 
 🗃 Most projects on here are passion projects, but a selection are from my university courseworks. 
 
