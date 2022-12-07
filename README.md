@@ -3,7 +3,9 @@
 
 🗺 I specialise in geospatial data science. I love making maps and communicating with data.
 
-🗃 This is a collection of all the projects I've worked on. Some are from university courseworks. 
+⌨️ I'm an advanced user of R. I am proficient in Alteryx and Tableau and have basic fluency in Python and SQL.
+
+🗃 This is a collection of all the projects I've worked on. Some are from university courseworks but most are passion projects. 
 
 📫 You can reach me at matthewgarethlam@outlook.com 
 
