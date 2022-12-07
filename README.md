@@ -3,7 +3,7 @@
 
 🗺 I specialise in geospatial data science. I love making maps and communicating with data.
 
-🗃 This is a collection of all the projects that I am working on, please feel free to browse through the different repositories. 
+🗃 This is a collection of all the projects I've worked on. Some are from university courseworks. 
 
 📫 You can reach me at matthewgarethlam@outlook.com 
 
