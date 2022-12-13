@@ -1,5 +1,5 @@
 ### Welcome to my Github 👋
-🌱 I'm a final year undergraduate at University College London. I study Geography with Social Data Science. 
+🌱 I'm a final year undergraduate at University College London studying Geography and Data Science. 
 
 🗺 I specialise in geospatial data science. I love making maps and communicating with data.
 
