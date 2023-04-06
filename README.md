@@ -1,7 +1,7 @@
 ### Welcome to my Github 👋
 🌱 I'm a final year undergraduate at University College London studying Geography and Data Science. 
 
-🗺 I specialise in geospatial data science, that's all data with a locational component. I love making maps and communicating with data.
+🗺 I specialise in geospatial data science, I love making maps and communicating with data.
 
 ⌨️ I'm an advanced user of R, I am proficient in Alteryx and Tableau and have basic fluency in Python and SQL.
 
