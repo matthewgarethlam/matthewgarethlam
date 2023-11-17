@@ -1,11 +1,11 @@
 ### Welcome to my Github 👋
-🌱 I'm a geospatial data scientist working in an engineering consultancy in Birmingham, UK. I was previously at University College London where I studied Geography and Data Science.
+🌱 I'm a geospatial data scientist working in an engineering consultancy in Birmingham, UK. 
+
+🗃 I was previously at University College London where I studied Geography and Data Science.
 
 🗺 I love making maps and innovating with spatial data. 
 
 ⌨️ R and Python
-
-🗃 Most projects on here are passion projects, but a selection are from my university courseworks. 
 
 💬 Ask me about open-source spatial data science and R! 
 
