@@ -1,11 +1,13 @@
 ### Welcome to my Github 👋
-🌱 I'm a final year undergraduate at University College London studying Geography and Data Science. 
+🌱 I'm a geospatial data scientist working in an engineering consultancy in Birmingham, UK. I was previously at University College London where I studied Geography and Data Science.
 
-🗺 I specialise in geospatial data science, I love making maps and communicating with data.
+🗺 I love making maps and innovating with spatial data. 
 
-⌨️ I'm an advanced user of R, I am proficient in Alteryx and Tableau and have basic fluency in Python and SQL.
+⌨️ R and Python
 
 🗃 Most projects on here are passion projects, but a selection are from my university courseworks. 
+
+💬 Ask me about open-source spatial data science and R! 
 
 📫 You can reach me at matthewgarethlam@outlook.com 
 
