@@ -3,8 +3,6 @@
 
 🗃 I was previously at University College London where I studied Geography and Data Science.
 
-🗺 I love making maps and innovating with spatial data. 
-
 ⌨️ R and Python
 
 💬 Ask me about open-source spatial data science and R! 
